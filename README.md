@@ -1,9 +1,6 @@
 # Python-Advanced-Data-Cleaning
 This gives you  the knowledge on how to use python for data cleaning and manipulation with Pandas and the likes.
 
-
-# Python Advanced Data Cleaning
-
 ## Project Overview
 
 This project demonstrates advanced data cleaning techniques using Python to transform raw, inconsistent, and incomplete datasets into high-quality, analysis-ready data. The notebook covers practical methods used by data analysts and business intelligence professionals to identify, investigate, and resolve common data quality issues.
